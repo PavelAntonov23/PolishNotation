@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PolishNotation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PolishNotation_jar</output-path>
+    <root id="archive" name="PolishNotation.jar">
+      <element id="module-output" name="PolishNotation" />
+    </root>
+  </artifact>
+</component>
